@@ -31,8 +31,10 @@ html, body {
 }
 
 .profileImage{
-    height: 200px;
-    margin-left: 40%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
     padding-bottom: 10px;
   
 }
