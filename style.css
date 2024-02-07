@@ -30,6 +30,12 @@ html, body {
     padding-bottom: 20px;
 }
 
+.profileImage{
+    width: 50%;
+    margin-left: 25%;
+    padding-top: 20px;
+
+}
  .textJustify{
     text-align:justify;
 }
@@ -102,11 +108,7 @@ hr{
     padding-right: 30px;
 }
 
-#profileImage{
-    text-align: center;
-    padding: 20px;
-    height: 200px;
-}
+
 
 .sectionHeadingText{
     background-color: #002269;
