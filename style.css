@@ -32,9 +32,10 @@ html, body {
 
 .profileImage{
     width: 50%;
+    height: 50%;
     margin-left: 25%;
     padding-bottom: 10px;
-    height: auto;
+  
 }
 
  .textJustify{
