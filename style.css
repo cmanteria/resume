@@ -1,0 +1,56 @@
+#navbar{
+    background-color: #00215e;
+    font-family: "montserrat", "sans-serif", "helvitica";
+    font-size: large;
+}
+
+#footer{
+    background-color: #00215e;
+    color: white;
+    font-family: "montserrat", "sans-serif", "helvitica";
+    font-size: large;
+    font-weight: bold;
+}
+
+#hero{
+    font-family: "montserrat", "sans-serif", "helvitica";
+}
+
+#contact{
+    color: #2C4E80;
+    font-family: "montserrat", "sans-serif", "helvitica";
+}
+
+#content{
+    font-family: "montserrat", "sans-serif", "helvitica";
+}
+
+.btn-lg{
+    background-color: #378CE7;
+    color: white;
+    padding: 14px 40px;
+    font-size: 24px;
+    border-radius: 5%;
+    margin-bottom: 30px;    
+}
+
+.leftcolumn{
+    background-color: black;
+    height: 100vh;
+    color: white;
+    font-family: "montserrat", "sans-serif", "helvitica";
+}
+
+h5{
+    font-weight: lighter;
+    color: rgb(134, 157, 205);
+}
+
+.rightcolumn{
+    font-family: "montserrat", "sans-serif", "helvitica";
+}
+}
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
